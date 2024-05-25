@@ -1,16 +1,3 @@
-# nonton_id
+# flutter template design
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is the result of my training from bootcamp, this application uses the Dart language and the Flutter framework, in developing the application it uses state provider management, and the data used comes from JSON, I hope this application is useful
